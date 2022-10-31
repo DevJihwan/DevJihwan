@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨🏻‍💻 Tech Stack 👨🏻‍💻
-<img src="https://img.shields.io/badge/#F16822?style=flat-square&logo=Web3.js=white"/></a>&nbsp 
-
+👨🏻‍💻 Tech Stack 👨🏻‍💻&nbsp 
+<img src="https://img.shields.io/badge/F16822?style=flat&logo=appveyor&logoColor=F16822"/>
 
 
